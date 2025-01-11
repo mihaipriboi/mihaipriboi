@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/35999afb-4578-478a-9365-581f2bb8b4fd)## Hi there 👋 Welcome to My GitHub Profile!
+## Hi there 👋 Welcome to My GitHub Profile!
 
 I’m a passionate developer and innovator, blending creativity with technology to solve problems, build cool projects, and make an impact. Here’s a glimpse of what I’m up to:
 
@@ -16,7 +16,7 @@ I’m a passionate developer and innovator, blending creativity with technology 
 ## 🌐 Let's Connect!
 <!-- - Portfolio Website: [Insert Link Here] !-->
 - **LinkedIn:** <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="16"/> [in/mihai-priboi-822788327](https://www.linkedin.com/in/mihai-priboi-822788327/)
-- **Email:** <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="16"/> [mihailucapriboi@gmail.com](mihailucapriboi@gmail.com)
+- **Email:** <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="16"/> [mihailucapriboi@gmail.com](mihailucapriboi@gmail.com)
 
 ## 🔭 Always open to collaboration! If you’re interested in teaming up on robotics, AI, or custom hardware projects, let’s chat.
 
